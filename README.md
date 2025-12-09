@@ -1,11 +1,7 @@
-# Hi! I'm Tiffany Mo
+# Hi! I'm Tiffany
 
-I am currently a Sophmore studying Computer Science at Occidental College interested in the intersetion between the tech and entertainment industries. Specifically, I am passionate about Mobile App and/or Game development as well as Animation and Compiter Graphics. I chose to study Computer Science in Los Angeles for the ability to explore both of these interests!
+I’m a computer science student @ Occidental College and an aspiring cybersecurity engineer who loves building creative and meaningful projects. I enjoy building projects that allow me to learn more about security, machine learning, and user experience.
 
-👾 **More About Me**
-- I was born and raised in Oahu, Hawaii 🏝️
-- I am also pursuing a minor in Media Arts and Culture and have created my own animated short films, visit my portfolio to watch the full thing! 🎬
-- I previously ran and owned a crochet small business 🧶
 
 🤝 **Let's Connect!**
 
