@@ -1,6 +1,6 @@
 # Hi! I'm Tiffany
 
-I’m a computer science student @ Occidental College and an aspiring cybersecurity engineer who loves building creative and meaningful projects. I enjoy building projects that allow me to learn more about security, machine learning, and user experience.
+I’m a computer science student @ Occidental College and an aspiring cybersecurity engineer who loves building creative and meaningful projects. Currently working on projects that allow me to learn more about security, machine learning, and user experience.
 
 
 🤝 **Let's Connect!**
